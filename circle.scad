@@ -1,6 +1,8 @@
 
+$fn=1000;
 
 	difference(){
-	 cylinder(r=80,h=2);
-	 translate([0,0,-.1]) cylinder(r=75,h=2.2);
+	 
+	 cylinder(r=130,h=1);
+	 translate([0,0,-.1]) cylinder(r=129,h=1.2);
 	}
